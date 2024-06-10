@@ -1,0 +1,143 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+img
+{
+    width: 50%;
+    margin-bottom: -4px;
+    
+}
+
+form
+{
+    text-align: left;
+    float: right;
+    display: block;
+    margin-top: 90px;
+    margin-right: 202px;
+    background-color: white;
+    height: 302px;
+    width: 397px;
+    border-radius: 17px;
+    box-shadow: rgb(110 70 102 / 13%) 0rem 0rem 0.75rem;
+}
+
+#name1
+{
+    color:rgba(9, 9, 9, 0.695);
+}
+
+h2{
+    font-family: roboto,sans-serif;;
+    font-size: 19px;
+}
+
+#fo
+{    
+    margin-top: 42px;
+    margin-left: 32px;
+}
+
+.inp
+{
+    padding-left: 10px;
+    font-weight: bold;
+    color: hsl(240deg 1% 62%);
+    width: 323px;
+    height: 37px;
+    margin: 13px 3px 3px 3px;
+    border-radius: 6px;
+    border: solid 1px #d7d7e0;
+}
+
+#button1
+{
+    background-color: hsl(0deg 0% 62%);
+    border-radius: 6px;
+    color: white;
+    width: 118px;
+    height: 37px;
+    border: 0;
+    float: right;
+    margin-right: 25px;
+}
+
+#link
+{
+    text-decoration: none;
+    font-weight: bold;
+    color :hsl(221deg 87% 67%);;
+    font-family: roboto,sans-serif;;
+    font-size: 14px;
+    vertical-align: sub;
+}
+
+#butlink
+{
+    padding-top: 11px;
+}
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+  
+.icon {
+    padding-top: 25px;
+    color: green;
+    min-width: 50px;
+    padding-left: 302px;
+}
+
+.ln
+{
+    width: 101px;
+}
+
+#line1,#line2
+{
+    margin: 9px 19px;
+}
+  
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#new_to
+{
+    
+    font-weight: bold;
+    color :rgb(0, 0, 0);;
+    font-family: roboto,sans-serif;;
+    font-size: 14px;
+}
+
+.create_new{
+    display: inline-flex;
+    margin-top: 79px;
+}
+  
+h2 {
+    color: green;
+}
+
+.last_but
+{
+    margin-top: 23px;
+    border: 2px solid hsl(339deg 78% 64%);
+    color: hsl(339deg 78% 64%);
+    font-weight: 700;
+    width: 100%;
+    height: 37px;
+    border-radius: 6px;
+    background-color: white;
+}
